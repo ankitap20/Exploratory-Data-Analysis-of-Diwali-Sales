@@ -24,7 +24,7 @@ Diwali, a celebrated festival, serves as a pivotal period for businesses. Analyz
 - Visualization of sales trends using matplotlib and seaborn.
 - Statistical analysis for identifying significant factors.
 - Recommendations for improving customer experience and sales.
-##Installation
+## Installation
 #Clone the repository:
 git clone https://github.com/iamtanmay07/diwali-sales-analysis.git
 
