@@ -25,14 +25,16 @@ Diwali, a celebrated festival, serves as a pivotal period for businesses. Analyz
 - Statistical analysis for identifying significant factors.
 - Recommendations for improving customer experience and sales.
 ## Installation
-#Clone the repository:
+---bash
+# Clone the repository:
 git clone https://github.com/iamtanmay07/diwali-sales-analysis.git
 
-#Navigate to the project directory:
+# Navigate to the project directory:
 cd diwali-sales-analysis
 
-#Install the required dependencies:
+# Install the required dependencies:
 pip install -r requirements.txt
+---
 ## Data
 The main analysis is conducted in Jupyter notebooks within the notebooks directory. Each notebook concentrates on specific facets of Diwali sales data analysis, encompassing data cleaning, exploratory data analysis, visualization, and recommendations.
 
