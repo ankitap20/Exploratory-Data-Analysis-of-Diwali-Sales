@@ -3,13 +3,13 @@
 This Python project delves into the analysis of Diwali sales data, aiming to extract insights beneficial for augmenting customer experience and driving sales. Employing diverse data analysis techniques, it uncovers patterns, trends, and crucial metrics associated with Diwali sales.
 
 Table of Contents
-[Overview](#overview)
-[Features](#features)
-[Installation](#installation)
-[Data](#data)
-[Analysis](#analysis)
-[Results](#results)
-[License](#license)
+-[Overview](#overview)
+-[Features](#features)
+-[Installation](#installation)
+-[Data](#data)
+-[Analysis](#analysis)
+-[Results](#results)
+-[License](#license)
 
 ## Overview
 Diwali, a celebrated festival, serves as a pivotal period for businesses. Analyzing sales data during this juncture offers invaluable insights. This project harnesses Python and data analysis libraries to:
